@@ -1,6 +1,5 @@
 package com.example.usersubscriptionstest.repository;
 
-import com.example.usersubscriptionstest.entity.Platform;
 import com.example.usersubscriptionstest.entity.Subscription;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
